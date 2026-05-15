@@ -65,4 +65,9 @@ export const themeConfig: { [key: string]: { primaryColor: string; secondaryColo
     primaryColor: "#c8a84b",
     secondaryColor: "#1a1208",
   },
+  Sekiro: {
+    // Sakura petals falling on Ashina — Isshin's final stand under the storm-dark sky
+    primaryColor: "#d4687a",
+    secondaryColor: "#100d1a",
+  },
 };

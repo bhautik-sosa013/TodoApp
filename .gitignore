@@ -28,3 +28,11 @@ dev-dist
 
 # Vite cache
 /.cache
+
+# Added by projectcode.dev
+.env
+.env.local
+.env.*.local
+build
+.next
+.vite
