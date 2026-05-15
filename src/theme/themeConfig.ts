@@ -70,4 +70,10 @@ export const themeConfig: { [key: string]: { primaryColor: string; secondaryColo
     primaryColor: "#d4687a",
     secondaryColor: "#100d1a",
   },
+  "Isshin Ashina": {
+    // Sword Saint Isshin — the crimson haori of Ashina's founder blazing against the tempest sky,
+    // lightning spear in hand and the divine Dragon's Tear falling through storm-black clouds
+    primaryColor: "#e63946",
+    secondaryColor: "#0b0f1e",
+  },
 };
