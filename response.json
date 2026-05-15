@@ -1,0 +1,4 @@
+{
+  "success": true,
+  "result": "The fix is in place:\n\n- **`tsconfig.app.json`** (new) — contains all the app-specific compiler options and `\"include\": [\"src\"]`, moved from `tsconfig.json`\n- **`tsconfig.json`** (updated) — now a proper solution file that just references `tsconfig.app.json` and `tsconfig.node.json`\n\nThis matches the standard Vite 5+ project structure. The `tsc` command in `npm run build` will now correctly resolve both referenced configs."
+}
